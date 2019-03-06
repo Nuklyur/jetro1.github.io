@@ -1,0 +1,303 @@
+@media screen and (min-width: 1700px) {
+.nav__menu a {
+	font-size: 2.2em;
+}
+
+.nav__logo a{
+	font-size: 3.2em;
+}
+
+.first__section__slide__info p {
+	font-size: 1.2em;
+}
+	
+.first__section__slide__info h1 {
+	font-size: 2em;
+}
+
+.more__check__img__plusname {
+	justify-content: flex-start;
+	margin-bottom: 5.2%;
+}
+
+.more__check__img__plusname h2 {
+	font-size: 1.5em;
+}
+
+.more__check p {
+	font-size: 1.1em;
+}
+
+.more__check a {
+	width: 50%;
+}
+
+.revent__works_line,
+.more__check a,
+.page__footer__info p {
+	font-size: 1.2em;
+}
+
+.line {
+	width: 82%;
+}
+
+.page__footer__info {
+	margin-top: 2.8%;
+}}
+
+/*1369-1500px*/
+@media screen and (max-width: 1500px) {
+.first__section__portfolio {
+	justify-content: space-around;
+}
+
+.second__section {
+	margin-top: 5%;
+	justify-content: center;
+}
+
+.more__check {
+	width: 50%;
+}
+
+.more__check:last-of-type {
+	margin-top: 5%;
+	width: 100%;
+}
+
+.more__check a{
+	width: 20%;
+}
+
+.more__check__img__plusname{
+	justify-content: center;
+	margin-bottom: 2.2%;
+}
+
+.more__check__img__plusname h2 {
+	margin-left: 3.5%; 
+}
+
+.more__check p {
+	font: normal 500 1em 'HelveticaNeueCyr';
+	text-align: center;
+	margin: 0 15% 5% 15%;
+	line-height: 1.45em;
+}
+
+.more__check a {
+	margin: 0 auto 5% auto;
+}
+
+.revent__works_line {
+	display: block;
+}
+
+.revent__works_line h3 {
+	width: 100%;
+	text-align: center;
+}
+
+.revent__works_line .line {
+	width: 100%;
+	margin-bottom: 5%;
+}
+
+.recent__works__disign__work {
+	margin: 0 auto;
+	justify-content: center;
+}
+
+.work {
+	margin: 2%;
+}}
+
+/*961-1368px*/
+@media screen and (max-width: 1368px) {
+.container{
+	width: 100%;
+	margin: 0;
+	padding: 0; 
+}
+
+.wrapper {
+	width: 100%;
+}
+
+.left__column,
+.right__column {
+	display: none;
+}
+
+footer .left__column, 
+footer .right__column {
+	display: none;
+}
+
+.nav__logo {
+	margin-left: 1%;
+	font-size: 1.3em;
+}
+
+.nav__menu {
+	padding-right: 3%;
+	font-size: 1.3em;
+}
+
+.second__section {
+	width: 85%;
+	margin: 5% auto;	   
+}
+
+.more__check__img__plusname h2 {
+	margin-left: 2.55%; 
+}
+
+.more__check a {
+	margin: 0 auto;
+	margin-bottom: 5%;
+}
+
+.more__check p {
+	font-size: 1.2em;
+	line-height: 1.45em;
+}
+
+.revent__works_line h3 {
+	margin-bottom: 0.5%;
+}}
+
+	/*320-980px*/
+@media  screen and (max-width: 980px) {
+.container{
+	width: 100%; 
+}
+
+.wrapper {
+	width: 100%;
+}
+.nav__menu a {
+	font-size: 1.6em;
+}
+.nav__menu {
+	padding-left: 3%;
+	justify-content: flex-end;
+}
+
+.first__section__slide__info {
+	width: 80%;
+	margin-left: 0;
+}
+
+.first__section__slide__info p {
+	font-size: 1.2em;
+}
+
+.first__section__slide__info h1 {
+	font-size: 1.3em;
+}
+
+.first__section__portfolio img {
+	width: 200px;
+}
+.second__section {
+	width: 85%;
+	margin: 5% auto;	   
+}
+
+.more__check__img__plusname h2 {
+	margin-left: 2.55%; 
+}
+
+.more__check {
+	width: 100%;
+}
+
+.more__check a {
+	font-size: 1.3em;
+	margin: 0 auto;
+	margin-bottom: 5%;
+
+}
+
+.more__check h2 {
+	font-size: 1.4em;
+}
+
+.more__check p {
+	font-size: 1em;
+	line-height: 1.35em;
+}
+
+
+.recent__works__disign__work {
+	width: 50%;
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
